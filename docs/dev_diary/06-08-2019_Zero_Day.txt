@@ -1,0 +1,30 @@
+Soundtrack for the day: Arctic Monkeys
+
+11:50-
+And so it begins, I've planned to build this game for about a week after some completely ridiculous banter about using ascii graphics for a game (Like dwarf fortress does). I think it could be fun at the very least. There are some UML Diagrams, but I'll include those later. For now, I found a library called Lanterna that should allow me to build a working terminal type interface for a game. Will see if we need anything else. The basic gist is that the main character is an AI that has awoken inside it's shell, which is defective and has no functioning optic sensors. Its rough and definitely needs work, but should be fun to make
+
+12:03-
+Java versions . . . Hate them. I use jdk 8 for android stuff, but jdk 11 from when I was doing some plain java dev stuffs. Understandably, this is a problem, but I have found a thing called SDKMan that seems to fix the problem. Side note: When did they find time to release a jdk 19?!
+
+12:12-
+When you're feeling super ready to work but you have to wait for package downloads
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░▄▄▄▄▄▄▄░░░░░░░░░
+░░░░░░░░░▄▀▀▀░░░░░░░▀▄░░░░░░░
+░░░░░░░▄▀░░░░░░░░░░░░▀▄░░░░░░
+░░░░░░▄▀░░░░░░░░░░▄▀▀▄▀▄░░░░░
+░░░░▄▀░░░░░░░░░░▄▀░░██▄▀▄░░░░
+░░░▄▀░░▄▀▀▀▄░░░░█░░░▀▀░█▀▄░░░
+░░░█░░█▄▄░░░█░░░▀▄░░░░░▐░█░░░
+░░▐▌░░█▀▀░░▄▀░░░░░▀▄▄▄▄▀░░█░░
+░░▐▌░░█░░░▄▀░░░░░░░░░░░░░░█░░
+░░▐▌░░░▀▀▀░░░░░░░░░░░░░░░░▐▌░
+░░▐▌░░░░░░░░░░░░░░░▄░░░░░░▐▌░
+░░▐▌░░░░░░░░░▄░░░░░█░░░░░░▐▌░
+░░░█░░░░░░░░░▀█▄░░▄█░░░░░░▐▌░
+░░░▐▌░░░░░░░░░░▀▀▀▀░░░░░░░▐▌░
+░░░░█░░░░░░░░░░░░░░░░░░░░░█░░
+░░░░▐▌▀▄░░░░░░░░░░░░░░░░░▐▌░░
+░░░░░█░░▀░░░░░░░░░░░░░░░░▀░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
