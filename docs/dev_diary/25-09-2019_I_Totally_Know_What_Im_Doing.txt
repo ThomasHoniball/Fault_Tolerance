@@ -56,3 +56,36 @@ We have colour output! Now seeing as I store these graphics in wrapper classes t
 ░░░░░░▌▄▄▀▀░▄░▀▀▄▄▐░░░░░░█ 
 ░░░▄▀▀▐▀▀░░░░░░░▀▀▌▄▄▄░░░█ 
 ░░░█░░░▀▄░░░░░░░▄▀░░░░█▀▀▀
+
+
+11:18-
+The terminal also sizes to fit screens (Lanterna does this automatically so I just set it to be impossibly big and it wraps)
+
+11:24-
+It broke, set it too big and it crashed my PC
+
+14:46-
+Took a lunch break and now we're looking at including colour in these graphics. I think storing the colouration in AsciiComponent will be best. Then we just apply that colour to all the characters in that component. Might have to make a class to house the Grid made by the AsciiGraphics
+
+14:59-
+Soooo I've been playing around with the idea of having Draw handle the drawing with AsciiGraphics ... But I dunno how hectic that could get. Other options include having a color matrix that goes with the character grid, but that could be a lot of work and I'm lazy, or 3 dimensional arrays which is a whole lotta nope, a wrapper class for a coloured character which is just so much weirdness. So I'm gonna opt for the 3rd choice and stare at the ceiling some more.
+
+15:27-
+Bit the bullet and made Draw handle the drawing of the entire graphic, basically it just sets the foreground colour to the colour of the component before it starts printing and then it prints and repeats the process.
+
+██████████▀▀▀▀▀▀▀▀▀▀▀▀▀██████████
+█████▀▀░░░░░░░░░░░░░░░░░░░▀▀█████
+███▀░░░░░░░░░░░░░░░░░░░░░░░░░▀███
+██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██
+█░░░░░░▄▄▄▄▄▄░░░░░░░░▄▄▄▄▄▄░░░░░█
+█░░░▄██▀░░░▀██░░░░░░██▀░░░▀██▄░░█
+█░░░██▄░░▀░░▄█░░░░░░█▄░░▀░░▄██░░█
+██░░░▀▀█▄▄▄██░░░██░░░██▄▄▄█▀▀░░██
+███░░░░░░▄▄▀░░░████░░░▀▄▄░░░░░███
+██░░░░░█▄░░░░░░▀▀▀▀░░░░░░░█▄░░░██
+██░░░▀▀█░█▀▄▄▄▄▄▄▄▄▄▄▄▄▄▀██▀▀░░██
+███░░░░░▀█▄░░█░░█░░░█░░█▄▀░░░░███
+████▄░░░░░░▀▀█▄▄█▄▄▄█▄▀▀░░░░▄████
+███████▄▄▄▄░░░░░░░░░░░░▄▄▄███████
+
+Simple 

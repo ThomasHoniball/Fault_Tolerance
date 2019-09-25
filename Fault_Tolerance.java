@@ -12,7 +12,7 @@ public class Fault_Tolerance
 		AsciiComponent openBar = new AsciiComponent(1, 1, '[');
 		AsciiComponent bar = new AsciiComponent(1, 20, '#');
 		AsciiComponent halfBar = new AsciiComponent(1, 10, '#');
-		AsciiComponent emptyBar = new AsciiComponent(1, 10, '-');
+		AsciiComponent emptyBar = new AsciiComponent(1, 10, '-', ANSI.RED);
 		AsciiComponent closeBar = new AsciiComponent(1, 1, ']');
 		AsciiGraphic graphic = new AsciiGraphic();
 		graphic.addComponent(openBar);

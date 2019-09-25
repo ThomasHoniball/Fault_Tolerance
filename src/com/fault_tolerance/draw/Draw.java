@@ -6,8 +6,10 @@ import com.googlecode.lanterna.terminal.DefaultTerminalFactory;
 import com.googlecode.lanterna.terminal.Terminal;
 import com.googlecode.lanterna.graphics.TextGraphics;
 import com.googlecode.lanterna.TextColor;
+import com.googlecode.lanterna.TerminalSize;
 
 import com.fault_tolerance.draw.AsciiGraphic;
+import com.fault_tolerance.draw.AsciiComponent;
 
 /**
  * The Draw class is responsible for output to the lanterna terminal. It SHOULD be used with ascii graphics to make the game interface
@@ -25,6 +27,7 @@ public class Draw
 		try{
 			DefaultTerminalFactory terminalFactory = new DefaultTerminalFactory();
 			terminalFactory.setAutoOpenTerminalEmulatorWindow(true);
+			terminalFactory.setInitialTerminalSize(new TerminalSize(200,200));
 			terminal = terminalFactory.createTerminalEmulator();
 			terminal.setCursorVisible(false);
 			graphics = terminal.newTextGraphics();
@@ -63,12 +66,37 @@ public class Draw
 
 	public void drawGraphic(AsciiGraphic graphic)
 	{
-		drawGrid(graphic.getGrid());
+		// drawGrid(graphic.getGrid());
+		try{
+			int termRow = terminal.getCursorPosition().getRow();
+			int termColumn = terminal.getCursorPosition().getColumn();
+			for (int i = 0; i < graphic.rows; i++) 
+			{
+				AsciiComponent[] row = graphic.getRow(i);
+				for (int x = 0; x < row.length; x++) 
+				{
+					setTextColor(row[x].getColor());
+					drawGrid(row[x].getComponentGrid());
+				}
+			}
+		}catch(IOException e)
+		{
+			System.err.println("IO Exception on drawGraphic function");
+		}
 	}
 
 	public void drawGraphic(AsciiGraphic graphic, int y, int x)
 	{
-		drawGrid(graphic.getGrid(), y, x);
+		// drawGrid(graphic.getGrid(), y, x);
+		try
+		{
+			terminal.setCursorPosition(x, y);
+			drawGraphic(graphic);
+
+		}catch(IOException e)
+		{
+			System.err.println("Error in DrawGraphic with coords");
+		}
 	}
 
 	public void setTextColor(TextColor color)

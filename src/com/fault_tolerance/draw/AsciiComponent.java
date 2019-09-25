@@ -1,5 +1,7 @@
 package com.fault_tolerance.draw;
 
+import com.googlecode.lanterna.TextColor;
+
 
 /**
  * The AsciiComponent class stores the data for drawing pieces of an Ascii_Graphic. For example 1,2,'&' would be a component that draws as "&&"
@@ -8,13 +10,14 @@ public class AsciiComponent
 {
 	private int rows, columns;
 	private char character;
+	private TextColor color;
 
 	public AsciiComponent(){
 
 	}
 
 	/**
-	 * The all out constructor. Set it all! Set it now! Also probably best to use this as this class has no defaults.
+	 * The all out constructor. Set it all! Set it now! Also probably best to use this as this class has no defaults. Except for color, which is a new thing
 	 * @param  _rows      The number of screen rows this component takes up
 	 * @param  _columns   The number of screen columns this component takes up
 	 * @param  _character The character used to fill the entity
@@ -25,6 +28,23 @@ public class AsciiComponent
 		rows = _rows;
 		columns = _columns;
 		character = _character;
+		color = TextColor.ANSI.WHITE;
+	}
+
+	/**
+	 * The all out constructor. Set it all! Set it now! Also probably best to use this as this class has no defaults. Now including color
+	 * @param  _rows      The number of screen rows this component takes up
+	 * @param  _columns   The number of screen columns this component takes up
+	 * @param  _character The character used to fill the entity
+	 * @param  _color     Color of the component
+	 * @return            
+	 */
+	public AsciiComponent(int _rows, int _columns, char _character, TextColor _color)
+	{
+		rows = _rows;
+		columns = _columns;
+		character = _character;
+		color = _color;
 	}
 
 	/**
@@ -75,6 +95,11 @@ public class AsciiComponent
 	public int getCols()
 	{
 		return columns;
+	}
+
+	public TextColor getColor()
+	{
+		return color;
 	}
 
 }

@@ -8,6 +8,7 @@ public class AsciiGraphic
 {
 	private AsciiComponent[][] blocks;
 	private int currentRow;
+	public int rows;
 
 	/**
 	 * Sets the currentrow to 0 (first index) and creates the blocks element with one empty item
@@ -16,6 +17,7 @@ public class AsciiGraphic
 	public AsciiGraphic()
 	{
 		currentRow = 0;
+		rows = 1;
 		blocks = new AsciiComponent[1][];
 	}
 
@@ -47,12 +49,18 @@ public class AsciiGraphic
 	 */
 	public void addRow()
 	{
-		currentRow++;
-		AsciiComponent[][] newBlocks = new AsciiComponent[currentRow+1][];
+		rows++;
+		AsciiComponent[][] newBlocks = new AsciiComponent[rows][];
 		for (int i = 0; i > blocks.length; i++) 
 		{
 			newBlocks[i] = blocks[i];	
 		}
+		blocks = newBlocks;
+	}
+
+	public void nextRow()
+	{
+		currentRow++;
 	}
 
 	public char[][] getGrid()
@@ -62,7 +70,7 @@ public class AsciiGraphic
 		// System.out.println(blocks[0][0].toString());
 		for (int i = 0; i < blocks.length; i++) 
 		{
-			char[][] gridRow = getRow(blocks[i]);
+			char[][] gridRow = getRowGrid(blocks[i]);
 			grid = resizeY(grid, gridRow.length);
 			for (int y = 0; y < gridRow.length; y++) 
 			{
@@ -80,7 +88,12 @@ public class AsciiGraphic
 		return grid;
 	}
 
-	public char[][] getRow(AsciiComponent[] row)
+	public AsciiComponent[] getRow(int row)
+	{
+		return blocks[row];
+	}
+
+	public char[][] getRowGrid(AsciiComponent[] row)
 	{
 		char[][] grid = new char[1][0];
 		int column = 0;
