@@ -1,0 +1,43 @@
+Soundtrack for the day:
+-Dorothy Moore
+-Otis Redding
+-Bill Withers
+-Al Green
+
+10:51-
+So its been a month... And I kinda forgot about this project for a while. I'm back now, so let's see what's what.
+
+11:02-
+Okay, I have relearnt my way around these strange, strange folders. Graphic's class has started. So to start we're gonna output a basic healthbar as follows:
+[####################]
+
+12:09-
+Decided to rename things a little, Graphic is now Ascii_Graphic and it will make use of a collection of Ascii_Components which store rows, columns and character for drawing very simple things. The components seem to be working .... *Tentatively makes ritual sacrifice to code gods*
+
+12:37-
+So the Ascii_Components can be multirowed, but the Ascii_Graphics were supposed to take a bunch of them in an array for each row... Soo that would get weird if you had a component with 1 row, a component with 3 rows and a component with 2 rows in one "row" in the Ascii_Graphics. Gonna make it a block based thing instead where Ascii_Components try to pack tight vertically for now... I get the distinct feeling I'm gonna have to fix this later. But that's a future me problem.
+
+─────────────────▄▄▄▄▄▄▄▄▄▄▄
+────────────▄▄▀▀▀░░░░░░░░░░░▀▄▄
+────────▄▄▀▀░░░░░░░▄▄▄▄▄▄▄░░░░░▀▄
+──────▄▀░░░░░░░░░▄▄▄▄▄▄▄▄▄▄▄░░░░░█
+────▄▀░░░░░▄▄▄▄▄▄▄░░░░░░░░░░░▄▄▄▄▄█▄▄
+───▄▀░▐▌░░░░░░░░░░▀▀░░░░░░░▀▀░░░░░░█
+──█░░░▀░░░░░░░▄▀▀▀▄░░░░▄░░░░▄▀▀▀▄░░▐▌
+─█░░░░░░▄▄▄░░▐░░▄░░▌░░░░▀▄░▐░░▄░░▌░░█
+▐▌░░░░▀▀░░░░▄░▀▄▄▄▀░░░░░░░▌░▀▄▄▄▀░░░▐▌
+█░░░░░░░░░░░░▀▄▄▄░░░░░░░░▐░░░░░▄▄▄▀░░█
+█░░░░▄▀░░░░░░░▄▄░░░░░░▄▀░▐░░░▄▄░░░░░░█
+▐▌░░▀░░░░░░░▄▀░░░▐▀░░░░░░░▀▌░░░▀▄░░░░█
+▐▌░░░▐░░░░░▐▌░░░░░▀█░░░░░░░▌░░░░█░░░░█
+─█░░░░░░░░░░░░░░▄░░▀▀▄▄▄▄▀▀░▀▄░░░░░░░█
+─▐▌░░░░░░░░░░░▄▀░░░░▄▄▄▄▄▄░░░░▌░░░░░░█
+──█░░░░░░░░░░▐░░░░▄▀░░░░░░▀▄░░▌░░░░░▐▌
+──▐▌░░░░░░░░░▐░░░░▀░░░▀▀░░░▀░░░░░░░░█
+───█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▐▌
+───▐▌░░░░░░░░░▄███████▄░░░░▄████████▄
+────▀▄████████████▀█████▄▄████████▀██
+───▄██▀▄░░░░░███▀▄██████▀▀██████▀▄███
+───▀▀───▀▀▀▀▀▀█████████▀▀▀▀█████████▀
+───────────────▀▀▀▀▀▀▀──────▀▀▀▀▀▀▀ 
+Mother of God it WORKS!

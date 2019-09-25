@@ -1,0 +1,1122 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"IO",
+				"IOException"
+			],
+			[
+				"set",
+				"setCursorPosition"
+			],
+			[
+				"resi",
+				"resizeX"
+			],
+			[
+				"Ascii",
+				"AsciiGraphic"
+			],
+			[
+				"new",
+				"newArr"
+			],
+			[
+				"ro",
+				"rows"
+			],
+			[
+				"block",
+				"blockRows"
+			],
+			[
+				"term",
+				"termRow"
+			],
+			[
+				"Asci",
+				"Ascii_Component"
+			],
+			[
+				"Asc",
+				"Ascii_Component"
+			],
+			[
+				"As",
+				"Ascii_Component"
+			],
+			[
+				"rec",
+				"recaptchaToken"
+			],
+			[
+				"ser",
+				"server_output"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"col",
+				"col-sm-6"
+			],
+			[
+				"s",
+				"sticky\tposition"
+			],
+			[
+				"feat",
+				"feature"
+			],
+			[
+				"gr",
+				"grid-item"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"Dii",
+				"Disciplines"
+			],
+			[
+				"a",
+				"ability_score"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"backg",
+				"background_feature"
+			],
+			[
+				"fea",
+				"features"
+			],
+			[
+				"heal",
+				"healthUpdate"
+			],
+			[
+				"hea",
+				"healthUpdate"
+			],
+			[
+				"dat",
+				"datasets"
+			],
+			[
+				"data",
+				"datasets"
+			],
+			[
+				"da",
+				"dataset"
+			],
+			[
+				"hel",
+				"healthUpdate"
+			],
+			[
+				"hitdie",
+				"hitdieArr"
+			],
+			[
+				"hitdi",
+				"hitdieArr"
+			],
+			[
+				"charac",
+				"character"
+			],
+			[
+				"hit",
+				"hitavg"
+			],
+			[
+				"skill",
+				"skill_level"
+			],
+			[
+				"ski",
+				"skill_level"
+			],
+			[
+				"arr",
+				"arr_skill"
+			],
+			[
+				"att",
+				"attribute_skills"
+			],
+			[
+				"getSki",
+				"getSkillArray"
+			],
+			[
+				"chara",
+				"character"
+			],
+			[
+				"abil",
+				"ability"
+			],
+			[
+				"abilit",
+				"ability_score"
+			],
+			[
+				"char",
+				"character"
+			],
+			[
+				"character",
+				"characters"
+			],
+			[
+				"car",
+				"card-category"
+			],
+			[
+				"fa-sta",
+				"fa-stack-1x"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ass",
+				"assign"
+			],
+			[
+				"get",
+				"getDisplayvars"
+			],
+			[
+				"data-auto",
+				"data-autoindex"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"recp",
+				"recaptcha_resolved"
+			],
+			[
+				"contact",
+				"contactForm"
+			],
+			[
+				"form",
+				"contactForm"
+			],
+			[
+				"au",
+				"autocallback"
+			],
+			[
+				"upda",
+				"updateAuto"
+			],
+			[
+				"auto",
+				"autocomplete"
+			],
+			[
+				"post",
+				"postVars"
+			],
+			[
+				"aut",
+				"autocompletes"
+			],
+			[
+				"all",
+				"all_employees"
+			],
+			[
+				"retail_",
+				"retail_employee_table_form"
+			],
+			[
+				"reta",
+				"retail_id"
+			],
+			[
+				"q",
+				"queryVars"
+			],
+			[
+				"tbl",
+				"tbl_employee"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"Inte",
+				"InterruptedException"
+			],
+			[
+				"thr",
+				"throws"
+			],
+			[
+				"termi",
+				"terminalFactory"
+			],
+			[
+				"sC",
+				"sContact_email"
+			],
+			[
+				"sCon",
+				"sContact_tel"
+			],
+			[
+				"sCont",
+				"sContact_tel"
+			],
+			[
+				"current",
+				"currentApplicant"
+			],
+			[
+				"educat",
+				"education_form"
+			],
+			[
+				"pass",
+				"password_hash"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"isnu",
+				"is_null"
+			],
+			[
+				"ANDR",
+				"ANDROID_API_LEVEL"
+			],
+			[
+				"con",
+				"controllingEntity"
+			],
+			[
+				"query",
+				"queryVars"
+			],
+			[
+				"stmt",
+				"stmtArray"
+			],
+			[
+				"inde",
+				"indexed_array"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"zip",
+				"zipname"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"curren",
+				"currentApplicant"
+			],
+			[
+				"sCoun",
+				"sCountry_birth"
+			],
+			[
+				"sCount",
+				"sCountry_residence"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"file",
+				"filepath"
+			],
+			[
+				"fiel",
+				"file_number"
+			],
+			[
+				"key",
+				"keyed_line"
+			],
+			[
+				"fi",
+				"file_number"
+			],
+			[
+				"cont",
+				"contract_list"
+			],
+			[
+				"fget",
+				"fgetcsv"
+			],
+			[
+				"upl",
+				"uploadOk"
+			],
+			[
+				"contr",
+				"contract_form"
+			],
+			[
+				"AN",
+				"ANDROID_ABI"
+			],
+			[
+				"AND",
+				"ANDROID_API_LEVEL"
+			],
+			[
+				"A",
+				"ANDROID_ABI"
+			],
+			[
+				"An",
+				"ANDROID_BUILD_TOOLS_VERSION"
+			],
+			[
+				"and",
+				"ANDROID_API_LEVEL"
+			],
+			[
+				"sRe",
+				"sRegistration_num"
+			],
+			[
+				"col-sm-",
+				"col-sm-4"
+			],
+			[
+				"tbl_",
+				"tbl_controlling_entity"
+			],
+			[
+				"sph",
+				"sPhysical_code"
+			],
+			[
+				"sphy",
+				"sPhysical_address"
+			],
+			[
+				"sPh",
+				"sPhysical_code"
+			],
+			[
+				"sPhysical",
+				"sPhysical_address"
+			],
+			[
+				"sPost",
+				"sPostal_code"
+			],
+			[
+				"dDateV",
+				"dDateVotingOpen"
+			],
+			[
+				"dDa",
+				"dDateVotingClose"
+			],
+			[
+				"dDate",
+				"dDateVotingOpen"
+			],
+			[
+				"tbl_ret",
+				"tbl_retail_contact"
+			],
+			[
+				"site_",
+				"site_retail"
+			],
+			[
+				"site_reta",
+				"site_retail_form"
+			],
+			[
+				"tbl_reta",
+				"tbl_retail_address"
+			],
+			[
+				"btn",
+				"btn-finish"
+			],
+			[
+				"save",
+				"save-sym"
+			],
+			[
+				"wiza",
+				"wizard-navigation"
+			],
+			[
+				"sD",
+				"sDiagram_deed"
+			],
+			[
+				"sP",
+				"sProvince"
+			],
+			[
+				"sL",
+				"sLocal_authority"
+			],
+			[
+				"sPro",
+				"sProperty_num"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Fault_Tolerance.java",
+			"settings":
+			{
+				"buffer_size": 876,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/com/fault_tolerance/draw/AsciiGraphic.java",
+			"settings":
+			{
+				"buffer_size": 2406,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/com/fault_tolerance/draw/AsciiComponent.java",
+			"settings":
+			{
+				"buffer_size": 1780,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/com/fault_tolerance/draw/Draw.java",
+			"settings":
+			{
+				"buffer_size": 2122,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/lucy4/Documents/Fault_Tolerance",
+		"/home/lucy4/Documents/Fault_Tolerance/src",
+		"/home/lucy4/Documents/Fault_Tolerance/src/com",
+		"/home/lucy4/Documents/Fault_Tolerance/src/com/fault_tolerance",
+		"/home/lucy4/Documents/Fault_Tolerance/src/com/fault_tolerance/draw"
+	],
+	"file_history":
+	[
+		"/home/lucy4/Documents/Fault_Tolerance/src/com/fault_tolerance/draw/Ascii_Component.java",
+		"/home/lucy4/Documents/Fault_Tolerance/src/com/fault_tolerance/draw/Ascii_Graphic.java",
+		"/home/lucy4/Documents/Fault_Tolerance/docs/dev_diary/21-09-2019_Poof.txt",
+		"/home/lucy4/Documents/Fault_Tolerance/docs/dev_diary/07-08-2019_Still_Here.txt",
+		"/home/lucy4/Documents/Fault_Tolerance/Fault_Tolerance.java",
+		"/home/lucy4/Documents/Fault_Tolerance/src/com/fault_tolerance/draw/Draw.java",
+		"/home/lucy4/Documents/Fault_Tolerance/src/com/fault_tolerance/draw/Graphic.java",
+		"/home/lucy4/Downloads/votersroll_test.csv",
+		"/home/lucy4/Documents/Tabletop/zyl'thalas notes",
+		"/tmp/fz3temp-2/abstracts 2.php",
+		"/tmp/fz3temp-2/members.php",
+		"/tmp/fz3temp-2/abstracts.php",
+		"/tmp/fz3temp-2/membership.php",
+		"/tmp/fz3temp-2/registration.php",
+		"/tmp/fz3temp-2/functions.php",
+		"/tmp/fz3temp-2/system.php",
+		"/tmp/fz3temp-2/payment.php",
+		"/tmp/fz3temp-2/membership 2.php",
+		"/home/lucy4/.cache/.fr-biyyL3/member_export-20190917.csv",
+		"/tmp/fz3temp-2/products.php",
+		"/tmp/fz3temp-2/content.php",
+		"/tmp/fz3temp-2/error_log",
+		"/tmp/fz3temp-2/registration 2.php",
+		"/home/lucy4/Documents/Work/htdocs/recaptcha/recaptcha.php",
+		"/tmp/fz3temp-2/header.inc.tpl",
+		"/home/lucy4/Documents/Work/htdocs/recaptcha/recaptcha.js",
+		"/tmp/fz3temp-2/membership.tpl",
+		"/tmp/fz3temp-2/payment.tpl",
+		"/tmp/fz3temp-2/invoice.tpl",
+		"/tmp/fz3temp-2/registration.tpl",
+		"/tmp/fz3temp-2/contact.tpl",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/modules/expanda/templates/expanda.tpl",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/pantry/async/all_employees.php",
+		"/tmp/fz3temp-2/4E51D270EECDC831453B5F07B5A31016.txt",
+		"/tmp/fz3temp-2/index.php",
+		"/tmp/fz3temp-2/registrationslist.tpl",
+		"/tmp/fz3temp-2/pages.php",
+		"/home/lucy4/.cache/.fr-jUYmK5/registration_export-20190917.csv",
+		"/home/lucy4/.cache/.fr-3QKT5K/registration_export-20190917.csv",
+		"/home/lucy4/.cache/.fr-W8CxqN/registration_export-20190917.csv",
+		"/home/lucy4/.cache/.fr-Ij5sgw/registration_export-20190917.csv",
+		"/home/lucy4/.cache/.fr-WVgvEE/registration_export-20190917.csv",
+		"/home/lucy4/.cache/.fr-XC3QGU/registration_export-20190917.csv",
+		"/home/lucy4/.cache/.fr-RGLN33/registration_export-20190917.csv",
+		"/tmp/fz3temp-2/4D0C127C7E2D8402025BD945A1D9B162.txt",
+		"/tmp/fz3temp-2/02BCA1B759B49F6FC2A45EC52460799E.txt",
+		"/tmp/fz3temp-2/test.php",
+		"/tmp/fz3temp-2/content.tpl",
+		"/tmp/fz3temp-2/categories.tpl",
+		"/tmp/fz3temp-2/footer-menu.tpl",
+		"/tmp/fz3temp-2/footer.inc.tpl",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/pantry/async/save_employee.php",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/pantry/json/employees (copy).json",
+		"/home/lucy4/Documents/Tabletop/domains.csv",
+		"/home/lucy4/Downloads/votersroll_template.csv",
+		"/home/lucy4/Documents/Work/htdocs/character/pantry/json/Amber.bak.json",
+		"/home/lucy4/Documents/Work/htdocs/character/pantry/json/Amber.json",
+		"/home/lucy4/Documents/Work/htdocs/birdproapp.html",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/pantry/async/delete_employee.php",
+		"/home/lucy4/Documents/Work/htdocs/character/pantry/dashboard.php",
+		"/home/lucy4/Documents/Work/htdocs/character/php/core.php",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/templates/footer_top.tpl",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/templates/header.tpl",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/templates/features.tpl",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/templates/icon_stat.tpl",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/templates/armour_block.tpl",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/script_templates/health_bar.script.tpl",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/templates/hitdie_block.tpl",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/templates/points.tpl",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/templates/proficiency_block.tpl",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/templates/summary.tpl",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/templates/dashboard.tpl",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/templates/health_block.tpl",
+		"/home/lucy4/Documents/Work/htdocs/character/error.log",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/script_templates/feature.script.tpl",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/templates/ability_score.tpl",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/templates/ability_row.tpl",
+		"/home/lucy4/Documents/Work/htdocs/Preview/dashboard.html",
+		"/home/lucy4/Documents/Work/htdocs/Preview/assets/demo/demo.js",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/templates/footer.tpl",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/templates/main_details.tpl",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/templates/movement.tpl",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/templates/movement_block.tpl",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/templates_c/3db60013eb03916a4b3aa84c21c8f6979c7fc103_0.file.ability_score.tpl.php",
+		"/home/lucy4/Documents/Work/htdocs/character/php/fragment/shelf.php",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/templates/armour_class.tpl",
+		"/home/lucy4/Documents/Work/htdocs/character/php/fragment/header.php",
+		"/home/lucy4/Documents/Work/htdocs/character/php/fragment/metabuild.php",
+		"/home/lucy4/Documents/Work/htdocs/character/php/fragment/tag-build.php",
+		"/home/lucy4/Documents/Work/htdocs/character/smarty/smarty.php",
+		"/home/lucy4/Documents/Work/htdocs/character/index.php",
+		"/home/lucy4/Documents/Work/htdocs/character/pantry/navigate.php",
+		"/home/lucy4/Documents/Work/htdocs/character/pantry/shelf.php",
+		"/home/lucy4/Documents/Work/htdocs/character/php/fragment/navigate.php",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/modules/forms/scripts/forms.script.tpl",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/pantry/json/employee_table.json",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/modules/work-flow/scripts/flow.script.tpl",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/pantry/edit_retail.php",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/modules/forms/templates/form.tpl",
+		"/home/lucy4/Documents/Work/htdocs/license-pro (copy)/external/js/header.json",
+		"/tmp/fz3temp-2/index.html",
+		"/home/lucy4/Documents/Work/V4Creative/Template 02/contact.html",
+		"/home/lucy4/Documents/Work/V4Creative/Template 02/contact_template.html",
+		"/home/lucy4/Documents/Work/V4Creative/Template 02/sendmail.php",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/modules/organogram/functions/organ_node.php",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/modules/organogram/scripts/organogram.scripts.tpl",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/external/js/core/jquery.min.js",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/modules/organogram/meta.json",
+		"/home/lucy4/Documents/Work/V4Creative/Template 02/email/email-contact_body.html",
+		"/home/lucy4/Documents/Work/V4Creative/Template 02/contact-use.html",
+		"/tmp/fz3temp-2/main.js",
+		"/home/lucy4/Documents/Work/V4Creative/Template 02/index.html",
+		"/home/lucy4/Documents/Work/htdocs/contact/contact.php",
+		"/home/lucy4/Documents/Work/htdocs/contact/functions.php",
+		"/home/lucy4/Documents/Work/V4Creative/Template 02/thank-you.html",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/php/core.php",
+		"/home/lucy4/.cache/.fr-5nJXRs/Template 02/index.html",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/pantry/docdownload.php",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/pantry/edit_wholesale.php",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/php/dbFrame.php",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/php/database_variables.php",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/pantry/json/controlling_entity.json",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/pantry/async/all_entities.php",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/pantry/async/save_controlling_entity.php",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/pantry/json/docs.json",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/smarty/templates/header.tpl",
+		"/home/lucy4/Documents/Work/htdocs/license-pro/modules/work-flow/templates/flow.tpl",
+		"/tmp/fz3temp-2/error.log"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Ascii_Graphic",
+			"AsciiGraphics",
+			"Ascii_Component",
+			"Ascii_Graphic",
+			"Ascii_Component",
+			"SendMai",
+			"<?",
+			"mail",
+			"send",
+			"sendmail",
+			"mail",
+			"mail(",
+			"    <",
+			"RefPrefix",
+			",",
+			"</td>",
+			"\n        ",
+			"\n                <td>Standard</td>",
+			"\n                <td>Advanced</td>",
+			"\n                <td>Micro</td>",
+			"\n                <td>Micro Pro</td>",
+			"\n                <td>Parked Domain</td>",
+			"\n                <td>Multiple Domain</td>",
+			"\n                <td>Basic</td>",
+			"\n                <td style=\"padding-left:5px;\" width=\"200\" height=\"22\">",
+			"\n        <tr>",
+			"\n        </tr>\n",
+			"<tr class=\"loopon\">",
+			"=E2=80=93",
+			"=\n",
+			"=3D",
+			"}}</",
+			"<div class=\"row\">",
+			"chart",
+			"\t\t\t\n",
+			"update-done",
+			"setAutomenu",
+			"automenuSelect",
+			"setAutomenu",
+			"btn",
+			"site",
+			"Site",
+			"Indian",
+			"Black",
+			"Retail",
+			"retail",
+			"collapse-{{$item[$id_key]}}",
+			"$item.name",
+			"$item.id",
+			"file",
+			";",
+			"data-id",
+			"site",
+			"sites",
+			"Site",
+			"site",
+			" currentRetail",
+			"currentSite",
+			"  ",
+			"= ?",
+			", ",
+			"fa-tachometer-alt",
+			"\"/>\n",
+			"\"",
+			"=",
+			"`AND",
+			",",
+			"/{dir}",
+			"{dir}",
+			"assets/",
+			"td width=\"135\" valign=\"top\"",
+			"td width=\"126\" valign=\"top\"",
+			"td width=\"135\" valign=\"top\"",
+			"td width=\"126\" valign=\"top\">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"AsciiGraphic",
+			"AsciiComponent",
+			"AsciiGraphics",
+			"AsciiComponent",
+			"AsciiComponent\n",
+			"\n",
+			",",
+			"",
+			"-",
+			"",
+			"=",
+			"temp",
+			"Temp",
+			"White",
+			"Indian",
+			"Wholesale",
+			"wholesale",
+			"collapse-{{$expanda_name}}-{{$item[$id_key]}}",
+			"$item[$name_key]",
+			"$item[$id_key]",
+			",",
+			"retailer",
+			"retailers",
+			"Retail",
+			"retail",
+			"currentRetail",
+			" currentRetail",
+			" ",
+			" IS NULL",
+			" = ? AND ",
+			"",
+			"'",
+			"IS",
+			"` = NULL AND ",
+			"AND",
+			"{dir}",
+			"/{dir}",
+			"{dir}/external/",
+			"td align=\"left\"",
+			"td align=\"left\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Fault_Tolerance.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 876,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								602,
+								602
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/com/fault_tolerance/draw/AsciiGraphic.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1327,
+								1327
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 932.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/com/fault_tolerance/draw/AsciiComponent.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1780,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 728.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/com/fault_tolerance/draw/Draw.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2110,
+								2110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 892.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
+	"project": "Fault_Tolerance.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

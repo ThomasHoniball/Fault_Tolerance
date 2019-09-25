@@ -1,0 +1,24 @@
+Soundtrack for the Day:
+- Stuck in the Sound
+- Tenacious D - The Metal
+- Pearl Jam
+
+10:00-
+Don't you love round numbers? So, it's the day after, and I'm gonna try another round. 
+Today I need to set up the classes around the actual game graphics. So I need to figure out the terminal size, cursor co-ordinates, etc. 
+And then we're gonna see if we can do some ascii animations, maybe get the start up screen going. 
+
+░░░░░░░▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄░░░░░░
+░░░░░░█░░▄▀▀▀▀▀▀▀▀▀▀▀▀▀▄░░█░░░░░
+░░░░░░█░█░▀░░░░░▀░░▀░░░░█░█░░░░░
+░░░░░░█░█░░░░░░░░▄▀▀▄░▀░█░█▄▀▀▄░
+█▀▀█▄░█░█░░▀░░░░░█░░░▀▄▄█▄▀░░░█░
+▀▄▄░▀██░█▄░▀░░░▄▄▀░░░░░░░░░░░░▀▄
+░░▀█▄▄█░█░░░░▄░░█░░░▄█░░░▄░▄█░░█
+░░░░░▀█░▀▄▀░░░░░█░██░▄░░▄░░▄░███
+░░░░░▄█▄░░▀▀▀▀▀▀▀▀▄░░▀▀▀▀▀▀▀░▄▀░
+░░░░█░░▄█▀█▀▀█▀▀▀▀▀▀█▀▀█▀█▀▀█░░░
+░░░░▀▀▀▀░░▀▀▀░░░░░░░░▀▀▀░░▀▀░░░░
+
+10:44-
+So basically I have a Draw class which is gonna be the thing that creates and handles the terminal screen for the game. I'm thinking this will use another class called "Element" or something that will basically hold the data about something to be drawn on the terminal screen. Or this is the plan.

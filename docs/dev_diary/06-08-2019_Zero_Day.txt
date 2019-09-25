@@ -1,4 +1,5 @@
-Soundtrack for the day: Arctic Monkeys
+Soundtrack for the day: 
+- Arctic Monkeys
 
 11:50-
 And so it begins, I've planned to build this game for about a week after some completely ridiculous banter about using ascii graphics for a game (Like dwarf fortress does). 
@@ -71,4 +72,7 @@ Hello World is working
 Side Note: Dunno how sustainable this ascii art thing is, but I've committed to it now.
 
 14:15-
-Welp, theres a makefile, an organized file structure, a build directory and a working terminal thingy that writes a bunch of stuff. Still figuring out how all this works. But good progress. I think the organization will last about 2 weeks tops and then its all going down the crapper. 
+Welp, theres a makefile, an organized file structure, a build directory and a working terminal thingy that writes a bunch of stuff. 
+Still figuring out how all this works. But good progress. 
+
+I think the organization will last about 2 weeks tops and then its all going down the crapper. 
