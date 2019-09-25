@@ -3,16 +3,28 @@ Soundtrack of the Day:
 -Spotify Ads
 
 9:00 ish- Retroactively
-I am not very good at diaries mkay. But I should document this somehow. Also helps pinpoint exactly where past me screwed future me. Sooooo today I planned to work on the ascii drawing system seeing as it actually works now.
+I am not very good at diaries mkay. 
+But I should document this somehow. 
+Also helps pinpoint exactly where past me screwed future me. 
+Sooooo today I planned to work on the ascii drawing system seeing as it actually works now.
 
 10:25-
-Printing stuff wasn't a problem, but printing over stuff was. Which is problematic if you want things to change instead of just showing pictures of full energy bars. Turns out I needed to flush the output, so, simple solution I guess. Gonna be a nice, boring diary today.
+Printing stuff wasn't a problem, but printing over stuff was. 
+Which is problematic if you want things to change instead of just showing pictures of full energy bars. 
+Turns out I needed to flush the output, so, simple solution I guess. Gonna be a nice, boring diary today.
 
 10:33-
-Turns out if I want coloured text(and I do), I might need to use a thing called a -checks clipboard- TextGraphics class.... Which I don't use... So this is gonna be fun.
+Turns out if I want coloured text(and I do), 
+I might need to use a thing called a -checks clipboard- TextGraphics class.... 
+Which I don't use... 
+
+So this is gonna be fun.
 
 10:40-
-So apparently I do know what I'm doing... I only had to change one piece of code and it seems to work.... For now ....
+So apparently I do know what I'm doing... 
+I only had to change one piece of code and it seems to work.... 
+
+For now ....
 ░░█▀░░░░░░░░░░░▀▀███████░░░░ 
 ░░█▌░░░░░░░░░░░░░░░▀██████░░░ 
 ░█▌░░░░░░░░░░░░░░░░███████▌░░ 
@@ -43,10 +55,15 @@ So apparently I do know what I'm doing... I only had to change one piece of code
 ░░░░░░▐░░░░▌░░░▐░░░░░▌░░░░░░░
 
 10:56-
-Spent a good 15 minutes trying to figure out if I was going crazy or not because Java said the functions didn't exist, but the lanterna API says they do, and the API never lies. Turns out I just forgot to use American Color and not Colour.
+Spent a good 15 minutes trying to figure out if I was going crazy or not because Java said the functions didn't exist, 
+but the lanterna API says they do, and the API never lies. 
+Turns out I just forgot to use American Color and not Colour.
+
+Now with more FREEDOM!
 
 10:58-
-We have colour output! Now seeing as I store these graphics in wrapper classes that produce grids for drawing I need to figure out how we associate a colour with that ...
+We have colour output! 
+Now seeing as I store these graphics in wrapper classes that produce grids for drawing I need to figure out how we associate a colour with that ...
 
 ░░░░█░▀▄░░░░░░░░░░▄▄███▀░░ 
 ░░░░█░░░▀▄░▄▄▄▄▄░▄▀░░░█▀░░ 
